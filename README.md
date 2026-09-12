@@ -65,6 +65,7 @@ _No problems solved yet._
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 20 | Valid Parentheses | Easy | [`LeetCode/20.valid-parenteses`](./LeetCode/20.valid-parenteses) |
+| 844 | Backspace String Compare | Easy | [`LeetCode/844.backspace-string-compare`](./LeetCode/844.backspace-string-compare) |
 
 ### Binary Search
 _No problems solved yet._
