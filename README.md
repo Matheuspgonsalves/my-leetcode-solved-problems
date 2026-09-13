@@ -74,6 +74,7 @@ _No problems solved yet._
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 232 | Implement Queue using Stacks | Easy | [`LeetCode/232.implement-queue-using-stacks`](./LeetCode/232.implement-queue-using-stacks) |
 | 933 | Number of Recent Calls | Easy | [`LeetCode/933.number-of-recent-calls`](./LeetCode/933.number-of-recent-calls) |
 
 ### Binary Search
