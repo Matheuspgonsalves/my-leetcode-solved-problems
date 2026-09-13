@@ -1,0 +1,16 @@
+{
+  "name": "leetcode-225-implement-stack-using-queues",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TypeScript environment for problem 225 - Implement Stack using Queues",
+  "scripts": {
+    "test": "tsx --test",
+    "test:watch": "tsx --test --watch",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}

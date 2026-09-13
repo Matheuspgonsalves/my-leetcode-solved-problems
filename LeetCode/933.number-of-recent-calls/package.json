@@ -1,0 +1,16 @@
+{
+  "name": "leetcode-933-number-of-recent-calls",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TypeScript environment for problem 933 - Number of Recent Calls",
+  "scripts": {
+    "test": "tsx --test",
+    "test:watch": "tsx --test --watch",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}
