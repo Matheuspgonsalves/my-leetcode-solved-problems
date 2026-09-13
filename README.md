@@ -70,6 +70,12 @@ _No problems solved yet._
 | 1047 | Remove All Adjacent Duplicates In String | Easy | [`LeetCode/1047.remove-all-adjacent-duplicates-in-string`](./LeetCode/1047.remove-all-adjacent-duplicates-in-string) |
 | 1544 | Make The String Great | Easy | [`LeetCode/1544.make-the-string-great`](./LeetCode/1544.make-the-string-great) |
 
+### Queue
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 933 | Number of Recent Calls | Easy | [`LeetCode/933.number-of-recent-calls`](./LeetCode/933.number-of-recent-calls) |
+
 ### Binary Search
 _No problems solved yet._
 
