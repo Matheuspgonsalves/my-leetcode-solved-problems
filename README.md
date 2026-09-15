@@ -82,7 +82,10 @@ _No problems solved yet._
 _No problems solved yet._
 
 ### Linked List
-_No problems solved yet._
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 876 | Middle of the Linked List | Easy | [`LeetCode/876.middle-of-the-linked-list`](./LeetCode/876.middle-of-the-linked-list) |
 
 ### Trees
 _No problems solved yet._

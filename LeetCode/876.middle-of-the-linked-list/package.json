@@ -1,0 +1,16 @@
+{
+  "name": "leetcode-876-middle-of-the-linked-list",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TypeScript environment for problem 876 - Middle of the Linked List",
+  "scripts": {
+    "test": "tsx --test",
+    "test:watch": "tsx --test --watch",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}
