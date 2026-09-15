@@ -12,25 +12,26 @@ export class ListNode {
  * Returns the middle node of the list, or the second middle node when the length is even.
  */
 export function middleNode(head: ListNode | null): ListNode | null {
-  let length: number = getHeadLength(head);
+  let length: number = getListLength(head);
+  let current = head;
 
   for(let i = 0; i !== Math.floor(length / 2); i++) {
-    head = head?.next!;
+    current = current!.next;
   }
 
-
-  return head;
+  return current;
 }
 
-function getHeadLength(head: ListNode | null): number {
+function getListLength(head: ListNode | null): number {
   let count: number = 0;
+  let current = head;
  
-  if(head !== null) {
-    while(head.next !== null) {
-      head = head.next;
-      count++
+  if(current !== null) {
+    while(current.next !== null) {
+      current = current.next;
+      count++;
     }
-    count++
+    count++;
   }
  
   return count;
