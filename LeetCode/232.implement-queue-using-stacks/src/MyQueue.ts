@@ -6,8 +6,8 @@ export class MyQueue {
   private outStack: number[];
 
   constructor(){
-    this.inStack = []
-    this.outStack = []
+    this.inStack = [];
+    this.outStack = [];
   }
 
   push(x: number): void {

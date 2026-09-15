@@ -2,21 +2,29 @@
  * A last-in-first-out stack built out of queue operations only.
  */
 export class MyStack {
-  private items: number[] = [];
+  private queueStack: number[];
+
+  constructor(){
+    this.queueStack = [];
+  }
 
   push(x: number): void {
-    this.items.push(x);
+    this.queueStack.push(x);
+
+    for(let i = 0; i < this.queueStack.length - 1; i++) {
+      this.queueStack.push(this.queueStack.shift()!);
+    }
   }
 
   pop(): number {
-    return this.items.shift() as number;
+    return this.queueStack.shift()!;
   }
 
   top(): number {
-    return this.items[0] as number;
+    return this.queueStack[0]!;
   }
 
   empty(): boolean {
-    return this.items.length === 0;
+    return this.queueStack.length === 0;
   }
 }
