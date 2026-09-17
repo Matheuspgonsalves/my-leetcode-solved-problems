@@ -66,6 +66,7 @@ _No problems solved yet._
 |---|---------|------------|----------|
 | 20 | Valid Parentheses | Easy | [`LeetCode/20.valid-parenteses`](./LeetCode/20.valid-parenteses) |
 | 71 | Simplify Path | Medium | [`LeetCode/71.simplify-path`](./LeetCode/71.simplify-path) |
+| 155 | Min Stack | Medium | [`LeetCode/155.min-stack`](./LeetCode/155.min-stack) |
 | 225 | Implement Stack using Queues | Easy | [`LeetCode/225.implement-stack-using-queues`](./LeetCode/225.implement-stack-using-queues) |
 | 844 | Backspace String Compare | Easy | [`LeetCode/844.backspace-string-compare`](./LeetCode/844.backspace-string-compare) |
 | 1047 | Remove All Adjacent Duplicates In String | Easy | [`LeetCode/1047.remove-all-adjacent-duplicates-in-string`](./LeetCode/1047.remove-all-adjacent-duplicates-in-string) |
