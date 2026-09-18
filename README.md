@@ -83,6 +83,7 @@ _No problems solved yet._
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 278 | First Bad Version | Easy | [`LeetCode/278.first-bad-version`](./LeetCode/278.first-bad-version) |
 | 704 | Binary Search | Easy | [`LeetCode/704.binary-search`](./LeetCode/704.binary-search) |
 
 ### Linked List
