@@ -80,7 +80,10 @@ _No problems solved yet._
 | 933 | Number of Recent Calls | Easy | [`LeetCode/933.number-of-recent-calls`](./LeetCode/933.number-of-recent-calls) |
 
 ### Binary Search
-_No problems solved yet._
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 704 | Binary Search | Easy | [`LeetCode/704.binary-search`](./LeetCode/704.binary-search) |
 
 ### Linked List
 
