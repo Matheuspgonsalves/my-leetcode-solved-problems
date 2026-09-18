@@ -130,8 +130,8 @@ _No problems solved yet._
 
 ## Progress
 
-- **Total solved:** 1
-- **Topics covered:** 1 / 18
+- **Total solved:** 12
+- **Topics covered:** 4 / 19
 
 ---
 
