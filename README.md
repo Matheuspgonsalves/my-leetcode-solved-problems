@@ -58,7 +58,10 @@ _No problems solved yet._
 _No problems solved yet._
 
 ### Sliding Window
-_No problems solved yet._
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 121 | Best Time to Buy and Sell Stock | Easy | [`LeetCode/121.best-time-to-buy-and-sell-stock`](./LeetCode/121.best-time-to-buy-and-sell-stock) |
 
 ### Stack
 
@@ -130,8 +133,8 @@ _No problems solved yet._
 
 ## Progress
 
-- **Total solved:** 12
-- **Topics covered:** 4 / 19
+- **Total solved:** 13
+- **Topics covered:** 5 / 19
 
 ---
 

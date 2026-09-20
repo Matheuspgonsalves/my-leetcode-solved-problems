@@ -1,0 +1,16 @@
+{
+  "name": "leetcode-121-best-time-to-buy-and-sell-stock",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TypeScript environment for problem 121 - Best Time to Buy and Sell Stock",
+  "scripts": {
+    "test": "tsx --test",
+    "test:watch": "tsx --test --watch",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}
