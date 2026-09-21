@@ -93,6 +93,7 @@ _No problems solved yet._
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 206 | Reverse Linked List | Easy | [`LeetCode/206.reverse-linked-list`](./LeetCode/206.reverse-linked-list) |
 | 876 | Middle of the Linked List | Easy | [`LeetCode/876.middle-of-the-linked-list`](./LeetCode/876.middle-of-the-linked-list) |
 
 ### Trees
@@ -133,7 +134,7 @@ _No problems solved yet._
 
 ## Progress
 
-- **Total solved:** 13
+- **Total solved:** 14
 - **Topics covered:** 5 / 19
 
 ---
