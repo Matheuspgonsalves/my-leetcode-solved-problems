@@ -52,10 +52,16 @@ Each exercise folder documents any extra scripts (`npm run test:watch`, `npm run
 The categories below follow the topic breakdown most commonly used to structure interview prep (in the spirit of NeetCode's roadmap), since it maps closely to what shows up in real interview loops, both abroad and at Brazilian companies like Nubank, iFood and Mercado Livre. Categories are listed even before they have solved problems, so new solutions just get slotted into the right place as they're done.
 
 ### Arrays & Hashing
-_No problems solved yet._
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1 | Two Sum | Easy | [`LeetCode/1.two-sum`](./LeetCode/1.two-sum) |
 
 ### Two Pointers
-_No problems solved yet._
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 167 | Two Sum II - Input Array Is Sorted | Medium | [`LeetCode/167.two-sum-ii-input-array-is-sorted`](./LeetCode/167.two-sum-ii-input-array-is-sorted) |
 
 ### Sliding Window
 
@@ -135,8 +141,8 @@ _No problems solved yet._
 
 ## Progress
 
-- **Total solved:** 15
-- **Topics covered:** 5 / 19
+- **Total solved:** 17
+- **Topics covered:** 7 / 19
 
 ---
 
