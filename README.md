@@ -93,6 +93,7 @@ _No problems solved yet._
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 141 | Linked List Cycle | Easy | [`LeetCode/141.linked-list-cycle`](./LeetCode/141.linked-list-cycle) |
 | 206 | Reverse Linked List | Easy | [`LeetCode/206.reverse-linked-list`](./LeetCode/206.reverse-linked-list) |
 | 876 | Middle of the Linked List | Easy | [`LeetCode/876.middle-of-the-linked-list`](./LeetCode/876.middle-of-the-linked-list) |
 
@@ -134,7 +135,7 @@ _No problems solved yet._
 
 ## Progress
 
-- **Total solved:** 14
+- **Total solved:** 15
 - **Topics covered:** 5 / 19
 
 ---
